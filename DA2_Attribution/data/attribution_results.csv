@@ -1,0 +1,36 @@
+channel,conversions,credit,model
+Direct,65.0,0.1597051597051597,First-Touch
+Referral,63.0,0.1547911547911548,First-Touch
+Social Media,61.0,0.14987714987714987,First-Touch
+Email,59.0,0.14496314496314497,First-Touch
+Paid Search,58.0,0.14250614250614252,First-Touch
+Organic Search,53.0,0.13022113022113022,First-Touch
+Display Ads,48.0,0.11793611793611794,First-Touch
+Email,85.0,0.20884520884520885,Last-Touch
+Direct,84.0,0.20638820638820637,Last-Touch
+Paid Search,81.0,0.19901719901719903,Last-Touch
+Organic Search,52.0,0.12776412776412777,Last-Touch
+Referral,46.0,0.11302211302211303,Last-Touch
+Social Media,34.0,0.08353808353808354,Last-Touch
+Display Ads,25.0,0.06142506142506143,Last-Touch
+Email,69.9,0.17182637182637184,Linear
+Direct,69.8,0.1715397215397215,Linear
+Paid Search,68.3,0.16769041769041773,Linear
+Organic Search,58.2,0.14291564291564282,Linear
+Social Media,53.7,0.13206388206388203,Linear
+Referral,47.8,0.1173628173628173,Linear
+Display Ads,39.3,0.09660114660114663,Linear
+Email,71.5,0.17562245919788833,Time-Decay
+Direct,70.9,0.17422309880172085,Time-Decay
+Paid Search,69.6,0.17094524836799818,Time-Decay
+Organic Search,57.9,0.14228285420366246,Time-Decay
+Social Media,52.3,0.12861152761945724,Time-Decay
+Referral,46.5,0.1143003748925376,Time-Decay
+Display Ads,38.3,0.09401443691673546,Time-Decay
+Email,198.7,0.4880952380952378,Markov Chain
+Direct,150.2,0.3690476190476189,Markov Chain
+Paid Search,58.1,0.14285714285714332,Markov Chain
+Social Media,0.0,0.0,Markov Chain
+Organic Search,0.0,0.0,Markov Chain
+Display Ads,0.0,0.0,Markov Chain
+Referral,0.0,0.0,Markov Chain
